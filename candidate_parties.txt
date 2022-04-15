@@ -1,0 +1,17 @@
+John_Kennedy_60
+Lyndon_Johnson_64
+Hubert_Humphrey_68
+George_McGovern_72
+Jimmy_Carter_76
+Jimmy_Carter_80
+Walter_Mondale_84
+Michael_Dukakis_88
+Bill_Clinton_92
+Bill_Clinton_96
+Al_Gore_00
+John_Kerry_04
+Barack_Obama_08
+Barack_Obama_12
+Hillary_Clinton_16
+Joe_Biden_20
+
